@@ -82,7 +82,7 @@ x[c] = " ";
 for(i = 0; i < elem.length; i++){
 x[c] = x[c] + "*";
 }
-console.log(x);
+console.log(x);::
  
           
              
